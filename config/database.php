@@ -14,4 +14,5 @@ return [
             ],
         ],
     ],
+    'migrations' => 'migrations',
 ];
